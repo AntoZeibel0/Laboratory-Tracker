@@ -1,0 +1,12 @@
+insert into users (id, full_name, hobby, group_number, role, username, password) values (1, 'Zeibel Antonia', 'teaching', 0, 'TEACHER', 'anto', '$2a$12$w92gf11FV7jR8r79DmTp/uvMAt6DmMZhLS/f.Vcq8mv3oSMYtQ2iy');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (2, 'Voicu Sara', 'tennis', 30431, 'STUDENT', 'sara', '$2a$12$UptYHo2mNCHcEPv6polh7.4SLEufdgvSGogTg8994VPIIieP7KCSi');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (3, 'Lorena Emma', 'reading', 30431, 'STUDENT', 'emma', '$2a$12$XeD/33ue7kTHvUkvW3rY6esfQ0u36pLEU/1QkptDKl/02.vepJFfS');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (4, 'Buzan Meda', 'hiking', 30431, 'STUDENT', 'meda', '$2a$12$xYQyHG6OyoPtIcqYw0OCqeNaQGfUgdNrwbkI.2bUwy3/hP7Q5JGGa');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (5, 'Mihai Razvan', 'chess', 30431, 'STUDENT', 'razvan', '$2a$12$IcOZtVleyoTzA4t2EyWMW.E0.nk7dtAzEP9frszQq37iH/wK2wfie');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (6, 'Popescu Vlad', 'voleyball', 30431, 'STUDENT', 'vlad', '$2a$12$vGeiqx3aYzHA4JWSDFsdOOsrq2qxPo4ETiEVncW8xdGofYif/gaNi');
+insert into users (id, full_name, hobby, group_number, role, username, password) values (7, 'Imre Eli', 'painting', 30431, 'STUDENT', 'eli', '$2a$12$dBVVCfu20t4YoLNgJnVAze6QKOM3i9zcMrbG7XDbLdEiCo8qyQeN.');
+insert into labs (lab_id, curricula, date, description, number, title) values (1, 'some curricula', '2023-04-20', 'some description', 1, 'Intro');
+insert into labs (lab_id, curricula, date, description, number, title) values (2, 'some curricula', '2023-04-21', 'some description', 2, 'Basics');
+insert into labs (lab_id, curricula, date, description, number, title) values (3, 'some curricula', '2023-04-22', 'some description', 3, 'Rules');
+insert into labs (lab_id, curricula, date, description, number, title) values (4, 'some curricula', '2023-04-23', 'some description', 4, 'Patterns');
+insert into labs (lab_id, curricula, date, description, number, title) values (5, 'some curricula', '2023-04-24', 'some description', 5, 'Exceptions');
